@@ -16,7 +16,7 @@ export default function Home() {
               className="mx-auto mb-4"
             />
           </div>
-          <h1 className="text-4xl font-serif mb-2 text-black">GROKiPEDiA</h1>
+          <h1 className="text-4xl font-serif mb-2 text-black">Grokipedia</h1>
           <p className="text-lg text-black mb-6">The Free Encyclopedia</p>
         </div>
 
